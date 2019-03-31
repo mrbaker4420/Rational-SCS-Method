@@ -1,0 +1,122 @@
+# Ia values for runoff curves
+
+    Ia = ''
+
+    if num6 == 40:
+        Ia = 3
+    elif num6 == 41:
+        Ia = 2.878
+    elif num6 == 42:
+        Ia = 2.762
+    elif num6 == 43:
+        Ia = 2.651
+    elif num6 == 44:
+        Ia = 2.545
+    elif num6 == 45:
+        Ia = 2.444
+    elif num6 == 46:
+        Ia = 2.348
+    elif num6 == 47:
+        Ia = 2.255
+    elif num6 == 48:
+        Ia = 2.167
+    elif num6 == 49:
+        Ia = 2.082
+    elif num6 == 50:
+        Ia = 2.0
+    elif num6 == 51:
+        Ia = 1.922
+    elif num6 == 52:
+        Ia = 1.846
+    elif num6 == 53:
+        Ia = 1.774
+    elif num6 == 54:
+        Ia = 1.704
+    elif num6 == 55:
+        Ia = 1.636
+    elif num6 == 56:
+        Ia = 1.571
+    elif num6 == 57:
+        Ia = 1.509
+    elif num6 == 58:
+        Ia = 1.448
+    elif num6 == 59:
+        Ia = 1.390
+    elif num6 == 60:
+        Ia = 1.33
+    elif num6 == 61:
+        Ia = 1.279
+    elif num6 == 62:
+        Ia = 1.226
+    elif num6 == 63:
+        Ia = 1.175
+    elif num6 == 64:
+        Ia = 1.125
+    elif num6 == 65:
+        Ia = 1.077
+    elif num6 == 66:
+        Ia = 1.030
+    elif num6 == 67:
+        Ia = .985
+    elif num6 == 68:
+        Ia = .941
+    elif num6 == 69:
+        Ia = .889
+    elif num6 == 70:
+        Ia = .857
+    elif num6 == 71:
+        Ia = .817
+    elif num6 == 72:
+        Ia = .778
+    elif num6 == 73:
+        Ia = .74
+    elif num6 == 74:
+        Ia = .703
+    elif num6 == 75:
+        Ia = .667
+    elif num6 == 76:
+        Ia = .632
+    elif num6 == 77:
+        Ia = .597
+    elif num6 == 78:
+        Ia = .564
+    elif num6 == 79:
+        Ia = .532
+    elif num6 == 80:
+        Ia = .5
+    elif num6 == 81:
+        Ia = .469
+    elif num6 == 82:
+        Ia = .439
+    elif num6 == 83:
+        Ia = .410
+    elif num6 == 84:
+        Ia = .381
+    elif num6 == 85:
+        Ia = .353
+    elif num6 == 86:
+        Ia = .326
+    elif num6 == 87:
+        Ia = .299
+    elif num6 == 88:
+        Ia = .273
+    elif num6 == 89:
+        Ia = .247
+    elif num6 == 90:
+        Ia = .222
+    elif num6 == 91:
+        Ia = .198
+    elif num6 == 92:
+        Ia = .174
+    elif num6 == 93:
+        Ia = .151
+    elif num6 == 94:
+        Ia = .128
+    elif num6 == 95:
+        Ia = .105
+    elif num6 == 96:
+        Ia = .083
+    elif num6 == 97:
+        Ia = .062
+    elif num6 == 98:
+        Ia = .041
